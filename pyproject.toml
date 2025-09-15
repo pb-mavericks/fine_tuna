@@ -17,6 +17,14 @@ dependencies = [
 
 [tool.poetry]
 packages = [{include = "fine_tune_wikipedia", from = "src"}]
+name = "fine-tune-wikipedia"
+version = "0.1.0"
+description = ""
+authors = [
+    "Patricia Brenny <patricia.brenny@mavs.ai>"
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
 
 
 [build-system]
