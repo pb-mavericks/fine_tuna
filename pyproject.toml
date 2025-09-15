@@ -23,8 +23,6 @@ description = ""
 authors = [
     "Patricia Brenny <patricia.brenny@mavs.ai>"
 ]
-readme = "README.md"
-requires-python = ">=3.12,<3.14"
 
 
 [build-system]
